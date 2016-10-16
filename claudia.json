@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "slackslash-radar-executor",
+    "name": "slackslash-radar",
+    "region": "us-west-2"
+  },
+  "api": {
+    "id": "yoq25s93b8",
+    "module": "index"
+  }
+}
